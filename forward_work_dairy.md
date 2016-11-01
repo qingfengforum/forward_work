@@ -12,4 +12,4 @@
 ### what I actually do.
 1. conference : list issues that haven't done. and distibute to the fellows.
 2. commit : local svn code to server.
-3.
+3. work : verify 32bit GUI.
