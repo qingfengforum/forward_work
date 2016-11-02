@@ -1,15 +1,14 @@
+[2016.11.01]
 ### plan
 #### plan for myself
-1. use git to record daily work.
 
 #### plan for work
-1. commit local svn code to the 243 service.
+1. help to test the svn code is right or not.
+2. debug : 32bit GUI cannot show.
+3. function : 925drive. first to program write the register code.
 
 #### plan for little things that easy forget.
-1. download the 62005 the latest code with GUI.
-2. ask lufeng to get the A7l code to merge the MCU related code.
 
 ### what I actually do.
-1. conference : list issues that haven't done. and distibute to the fellows.
-2. commit : local svn code to server.
-3. work : verify 32bit GUI.
+1. verify the svn code(why can not compile success) --> BC delete some file cause this problem.
+2. discuss the communication protocal and do some basic work.
