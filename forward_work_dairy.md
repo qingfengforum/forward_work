@@ -1,3 +1,11 @@
+[2016.11.02]
+### plan for work
+1. add code about the first uart communication.
+
+### what I actually do.
+1. add the first uart communication (0x29)
+
+
 [2016.11.01]
 ### plan
 #### plan for myself
