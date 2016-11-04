@@ -1,3 +1,13 @@
+[2016.11.03]
+### plan for work
+1. add the key list communication (0x31)
+2. add uart communication protocal to svn 
+
+### what I actually do.
+1. add 0x39 power off command.
+2. do little work of 0x312. do little work of 0x31
+
+
 [2016.11.02]
 ### plan for work
 1. add code about the first uart communication.
