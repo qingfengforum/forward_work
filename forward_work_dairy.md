@@ -1,3 +1,14 @@
+[need to do]
+1. button response mutex not do.
+2. pref can not save.
+
+[2016.11.03]
+### plan for work
+1. finished 0x31 that can finished.
+
+### what I actually do.
+
+
 [2016.11.03]
 ### plan for work
 1. add the key list communication (0x31)
